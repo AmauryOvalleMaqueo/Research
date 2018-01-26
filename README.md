@@ -1,4 +1,4 @@
 # Research
 ![logo](image.jpeg)
 
-[Contribution guidelines for this project](pdz_domains.odp)
+[Contribution guidelines for this project](domains.odp)
