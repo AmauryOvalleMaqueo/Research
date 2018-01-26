@@ -2,10 +2,13 @@
 
 [![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 
-[![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/Research.svg?branch=master)](https://travis-ci.org/AmauryOvalleMaqueo/Research)
+[![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/Research.svg?)](https://travis-ci.org/AmauryOvalleMaqueo/Research)
 
 install:
   - sudo pip install proselint
 
 script: 
   - proselint README.md
+
+
+#[![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/#Research.svg?branch=master)](https://travis-ci.org/#AmauryOvalleMaqueo/Research)
