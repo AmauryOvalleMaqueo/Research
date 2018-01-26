@@ -1,8 +1,13 @@
 # travis_proselint
 
-[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---|---
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_markdown-link-check.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_markdown-link-check)
 
-[![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/Research.svg?)](https://travis-ci.org/AmauryOvalleMaqueo/Research)
+
+#[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+
+#[![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/Research.svg?branch=master)](https://travis-ci.org/AmauryOvalleMaqueo/Research)
 
 install:
   - sudo pip install proselint
