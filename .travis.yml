@@ -1,19 +1,14 @@
-
 install:
   - sudo pip install proselint
-script:
-  - proselint README.md
+
+script: 
+  - proselint my_prose.md
 install:
   - sudo apt-get install npm
   - sudo npm install -g markdown-link-check
+
 script: 
   - ./check_dead_links
 
-
-## travis_proselint
-
-
-
-#[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
-#
-# [![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/Research.svg?branch=master)](https://travis-ci.org/AmauryOvalleMaqueo/Research.git)   [![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/#Research.svg?branch=master)](https://travis-ci.org/#AmauryOvalleMaqueo/Research)
+python:
+  - ./run_python.py
