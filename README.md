@@ -4,9 +4,9 @@
 
 [![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 
-[![Build Status](https://travis-ci.org/madhurya333/Project.svg?branch=master)](https://travis-ci.org/AmauryOvalleMaqueo/Research)
+[![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/Project.svg?branch=master)](https://travis-ci.org/AmauryOvalleMaqueo/Research)
 
-![logo](image.jgeg)
+![logo](image.jpeg)
 [manual](domains.odp)
 
 
