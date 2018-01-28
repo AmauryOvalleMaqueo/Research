@@ -1,25 +1,19 @@
-<<<<<<< HEAD
-# travis_proselint
 
-
-
-[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
-
-[![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/Research.svg?branch=master)](https://travis-ci.org/AmauryOvalleMaqueo/Research.git)
-
-=======
->>>>>>> 47cb62452228f0f3666e9832b16079c683edda9e
 install:
   - sudo pip install proselint
+script:
+  - proselint README.md
+install:
   - sudo apt-get install npm
   - sudo npm install -g markdown-link-check
-
 script: 
-  - proselint README.md
   - ./check_dead_links
-<<<<<<< HEAD
 
 
-#[![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/#Research.svg?branch=master)](https://travis-ci.org/#AmauryOvalleMaqueo/Research)
-=======
->>>>>>> 47cb62452228f0f3666e9832b16079c683edda9e
+## travis_proselint
+
+
+
+#[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+#
+# [![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/Research.svg?branch=master)](https://travis-ci.org/AmauryOvalleMaqueo/Research.git)   [![Build Status](https://travis-ci.org/AmauryOvalleMaqueo/#Research.svg?branch=master)](https://travis-ci.org/#AmauryOvalleMaqueo/Research)
