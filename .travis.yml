@@ -11,4 +11,4 @@ script:
   - ./check_dead_links
 
 python:
-  - ./run_python.py
+  - test_app.py
