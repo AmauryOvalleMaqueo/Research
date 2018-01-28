@@ -8,7 +8,7 @@ install:
   - sudo npm install -g markdown-link-check
 
 script: 
-  - ./check_dead_links
+  - check_dead_links
 
 python:
-  - ./run_python.py
+  - run_python.py
